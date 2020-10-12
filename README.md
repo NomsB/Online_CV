@@ -9,6 +9,7 @@
     crossorigin="anonymous"></script>
 <script src="script.js"></script>
 <link rel="stylesheet" href="project1.css">
+ </head>
 <body>
     <div class="weather-cont">
         <img class="icon">
@@ -183,4 +184,4 @@
     </div>
 </div>
 </body>
-
+ </html>
