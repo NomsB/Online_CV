@@ -104,7 +104,7 @@
                     </div>
                 </div>
                 <div class="about">
-                    A soon-to-be Information Technology Graduate and ready to take on the I.T. industry by storm
+                    A soon-to-be Information Technology Graduate
                 </div>
             </div> 
             <div class="right_par">
