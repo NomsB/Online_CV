@@ -183,5 +183,20 @@
        
     </div>
 </div>
+	 <canvas id="ltpcanvas"></canvas>
+    <script>
+        window.onload = function(){
+            init();
+            window.addEventListener('resize', init,false);
+        }
+        function init(){
+            var ltpc = document.getElementById('ltpcanvas');
+            var context = ltpc.getContext('2d');
+            var myW = window.innerWidth-5;
+            var myL = window.innerHeight - 5;
+            context.canvas.width = myW;
+            context.canvas.height = myL;
+        }
+    </script>
 </body>
  </html>
