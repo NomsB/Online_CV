@@ -122,7 +122,7 @@
                                         <p class="info_company">Silent Wolf Information and Communications Technology</p>
                                         <p class="info_cont">
                                             Website Development
-                                            Website Maintainance
+                                            and Website Maintainance
                                         </p>
                                     </div>
                                 </div>
@@ -184,4 +184,4 @@
     </div>
 </div>
 </body>
-</html> 
+ </html>
